@@ -1,0 +1,4 @@
+Initial Dataset: CreditScoreData
+The dataset after preprocessing: data_final
+Initial training dataset and test dataset: training_set, testing_set
+The training dataset and the test dataset that were used for best model: training_set_CfsSubsetEval, testing_set_CfsSubsetEval
